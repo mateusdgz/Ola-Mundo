@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula ao vivo! 
 
-Essa linha eu alterei direto no site! QUE IMPRESSIONANET!!!
+Essa linha eu alterei direto no site! QUE IMPRESSIONANTE!
